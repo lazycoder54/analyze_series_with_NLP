@@ -9,6 +9,7 @@ pydantic-core==2.23.2
 pyvis==0.3.2
 evaluate==0.4.2
 python-dotenv==1.0.1
+datasets==2.10.0
 git+https://github.com/huggingface/peft.git
 trl==0.9.6
 bitsandbytes==0.43.3
